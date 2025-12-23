@@ -34,6 +34,6 @@ The repository is organized into specific modules to handle the data pipeline, t
 The full dataset is hosted externally due to its size and is required to run the training pipeline. It is available in two formats:
 
 *   **Raw Data**: Original portraits for testing the preprocessing and segmentation pipeline. (https://drive.google.com/drive/folders/1xj7eg08PX0WuXFNhq1o2WVJiB2O8_-LM?usp=drive_link)
-*   **Processed Data**: Images already with a grai background, optimized for immediate training. (https://drive.google.com/drive/folders/1r1gVVlLp2MBQnmywI7GisyBj_u788az2?usp=drive_link)
+*   **Processed Data**: Images already with a gray background, optimized for immediate training. (https://drive.google.com/drive/folders/1r1gVVlLp2MBQnmywI7GisyBj_u788az2?usp=drive_link)
 
 To use the dataset, place the `data_raw` directory or the processed  `data_gray` directory into the project directory.
