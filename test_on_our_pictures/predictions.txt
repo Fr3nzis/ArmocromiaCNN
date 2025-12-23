@@ -1,0 +1,14 @@
+filename,season,subtype
+agnese2.jpg,inverno,deep
+agneser.jpg,autunno,cool
+daria.jpg,estate,light
+daria.png,primavera,light
+elena1.jpg,inverno,deep
+elena2.jpg,inverno,deep
+emanuele1.jpg,estate,light
+francesco1.jpg,inverno,deep
+giada3.jpg,autunno,deep
+ilaria1.jpg,autunno,deep
+mamma1.jpg,autunno,deep
+michela1.jpg,inverno,deep
+vincenzo1.jpg,estate,light
