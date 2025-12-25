@@ -67,7 +67,7 @@ class CNNMultiTask(nn.Module):
         logits_stagione = self.fc_stagione(f)          
         prob_stagione = F.softmax(logits_stagione, 1)  
 
-        # 3) testa sottotipo condizionata sulla stagione (soft)
+
         cond_input = torch.cat([f, prob_stagione], dim=1)   
         logits_sottotipo = self.fc_sottotipo(cond_input)    
 
