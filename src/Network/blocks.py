@@ -16,7 +16,6 @@ class ConvBlock(nn.Module):
         )
 
     def forward(self, x):
-        # Applica tutti i layer in blocco
         return self.block(x)
 
 
